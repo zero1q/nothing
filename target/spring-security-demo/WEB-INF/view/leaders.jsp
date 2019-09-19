@@ -1,24 +1,23 @@
 <html>
 
 <head>
-	<title>luv2code LEADERS Home Page</title>
+	<title>Home Page</title>
 </head>
 
 <body>
 
-<h2>luv2code LEADERS Home Page</h2>
+	<h2>LEADERS Home Page</h2>
+	<hr>
 
-<hr>
+	<p>
+		See you in Brazil ... for our annual Leadership retreat!
+		<br>
+		Keep this trip a secret, don't tell the regular employees LOL :-)
+	</p>
 
-<p>
-	See you in Brazil ... for our annual Leadership retreat!
-	<br>
-	Keep this trip a secret, don't tell the regular employees LOL :-)
-</p>
+	<hr>
 
-<hr>
-
-<a href="${pageContext.request.contextPath}/">Back to Home Page</a>
+	<a href="${pageContext.request.contextPath}/">Back to Home Page</a>
 
 </body>
 

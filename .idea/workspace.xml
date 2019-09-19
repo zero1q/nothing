@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0715df09-ee8a-4bf1-aaee-d1df29f725eb" name="Default Changelist" comment="" />
+    <list default="true" id="0715df09-ee8a-4bf1-aaee-d1df29f725eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/access-denied.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shri/springsecurity/config/DemoSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shri/springsecurity/config/DemoSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shri/springsecurity/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shri/springsecurity/controller/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/config/DemoSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/classes/com/shri/springsecurity/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/fancy-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/leaders.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/leaders.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/systems.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/webapps/spring-security/WEB-INF/view/systems.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/spring-security/org/apache/jsp/WEB_002dINF/view/plain_002dlogin_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cargo/configurations/tomcat9x/work/Tomcat/localhost/spring-security/org/apache/jsp/WEB_002dINF/view/plain_002dlogin_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/config/DemoSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/shri/springsecurity/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/config/DemoSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/config/DemoSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/config/SecurityWebApplicaitonInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/classes/com/shri/springsecurity/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/fancy-login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/leaders.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/leaders.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/systems.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-security-demo/WEB-INF/view/systems.jsp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,14 +63,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="630" />
-    <option name="y" value="5" />
-    <option name="width" value="895" />
-    <option name="height" value="740" />
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1R1CDGghLULvhjIr8nJ1DPNMhsj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568712145017" />
@@ -44,7 +78,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -93,12 +127,23 @@
       <workItem from="1568825142675" duration="1086000" />
       <workItem from="1568826386467" duration="1255000" />
       <workItem from="1568917968830" duration="428000" />
-      <workItem from="1568918577780" duration="1580000" />
+      <workItem from="1568918577780" duration="5159000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
